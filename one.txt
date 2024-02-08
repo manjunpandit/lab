@@ -1,4 +1,9 @@
 hii
 hloo
 second line from a1
+<<<<<<< HEAD
 second line from master
+=======
+hloo
+>>>>>>> a1
+hi there
